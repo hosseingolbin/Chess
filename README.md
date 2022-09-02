@@ -1,2 +1,2 @@
 # Chess
-2 playe chess game developed by python
+2 player chess game developed by python
